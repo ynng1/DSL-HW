@@ -1,0 +1,7 @@
+Running: xsim.dir/CCTA_behav/xsimk.exe -simmode gui -wdb CCTA_behav.wdb -simrunnum 0 -socket 64961
+Design successfully loaded
+Design Loading Memory Usage: 7868 KB (Peak: 7868 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 8432 KB (Peak: 8432 KB)
+Simulation CPU Usage: 15 ms

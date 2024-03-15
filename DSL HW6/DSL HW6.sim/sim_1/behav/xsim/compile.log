@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/User/DSL/DSL HW6/DSL HW6.srcs/sources_1/new/q5_1006215.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CCTA
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/User/DSL/DSL HW6/DSL HW6.srcs/sources_1/new/q5_tb_1006215.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CCTA_tb

@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../OneDrive - Singapore University of Technology and Design/Before SUTD/desktop/clock_tree.v" \
+"../../../../../OneDrive - Singapore University of Technology and Design/Before SUTD/desktop/num_adder.v" \
+"../../../../../OneDrive - Singapore University of Technology and Design/Before SUTD/desktop/segment.v" \
+"../../../../../OneDrive - Singapore University of Technology and Design/Before SUTD/desktop/top_module.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
